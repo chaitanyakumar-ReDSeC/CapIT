@@ -1,9 +1,9 @@
-# <img src="https://github.com/ChaitanyaKumarS2403/CapIT/blob/main/images/capit-logo.png" height="30"> CapIT
+# <img src="https://github.com/chaitanyakumar-ReDSeC/CapIT/blob/main/images/capit-logo.png" height="30"> CapIT
 
 Transcribe or translate your media files into .SRT subtitles using AI.
 
 ## Installation:
-1. [Click here](https://github.com/ChaitanyaKumarS2403/CapIT/archive/refs/heads/main.zip) to download the .zip file.
+1. [Click here](https://github.com/chaitanyakumar-ReDSeC/CapIT/archive/refs/heads/main.zip) to download the .zip file.
 2. Head to your downloaded path, Right-click on `CapIT - main` and click on `Extract Here`.
 3. Open the unzipped `CapIT - main` and double click on the file `CapIT - Launcher.bat`.
 
@@ -23,5 +23,5 @@ The launcher will look up for the dependencies in your system, and will install 
 10. You will be alerted with a alert box upon finishing the task, check the path same as the location of the media file selected.
 11. You will find the generated .SRT file in the same location with the same file name.
 
-Developed By : [Chaitanya Kumar Sathivada](https://github.com/ChaitanyaKumarS2403)
+Developed By : [Chaitanya Kumar Sathivada](https://github.com/chaitanyakumar-ReDSeC)
 
