@@ -1,4 +1,4 @@
-# <img src="https://github.com/chaitanyakumar-ReDSeC/CapIT/blob/main/images/capit-logo.png" height="30"> CapIT
+# <img src="https://github.com/chaitanyakumar-ReDSeC/CapIT/raw/main/images/capit-logo.png" height="30"> CapIT
 
 Transcribe or translate your media files into .SRT subtitles using AI.
 
